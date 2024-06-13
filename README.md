@@ -14,7 +14,7 @@
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/Allenpandas/Awesome-Autonomous-Driving-Security-Papers/pulls) to add papers.
+Please feel free to [pull requests](https://github.com/ASRS-Lab/Awesome-Autonomous-Driving-Security-Papers/pulls) to add papers.
 
 ## Table of Contents
 
